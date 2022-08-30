@@ -1,4 +1,4 @@
-recipe book project
+recipe book project.
 my objective with this project is learn node with postgres without using an orm.
 it was based on this video: 
 
@@ -9,9 +9,9 @@ feel free to change anything :)
 
 frameworks that you need for this project:
 
-express 
-pg 
-nodemon 
-node-postgres
-postman  
+express, 
+pg, 
+nodemon, 
+node-postgres,
+postman,
 body-parser
